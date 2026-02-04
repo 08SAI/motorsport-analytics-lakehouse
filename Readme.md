@@ -72,7 +72,7 @@ This solution simulates an **industry-grade analytics platform** for motorsport 
 ## Dashboards
 
 ### Fastest Driver Leaderboard
-![Fastest Driver](dashboards/fastest_driver.png)
+![Fastest Driver](circuit_difficulty.png)
 
 ### Constructor Win Percentage
 ![Constructor Win](dashboards/constructor_win.png)
