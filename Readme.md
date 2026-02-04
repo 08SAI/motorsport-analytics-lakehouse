@@ -75,10 +75,10 @@ This solution simulates an **industry-grade analytics platform** for motorsport 
 ![Fastest Driver](circuit_difficulty.png)
 
 ### Constructor Win Percentage
-![Constructor Win](dashboards/constructor_win.png)
+![Constructor Win](constructor_win.png)
 
 ### Circuit Difficulty Index
-![Circuit Difficulty](dashboards/circuit_difficulty.png)
+![Circuit Difficulty](fastest_driver.png)
 
 ---
 
