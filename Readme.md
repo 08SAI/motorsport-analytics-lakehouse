@@ -26,6 +26,10 @@ This solution simulates an **industry-grade analytics platform** for motorsport 
 
 ---
 
+## Architecture Diagram
+![Architecture Diagram](architecture_diagram.png)
+
+
 ## Medallion Architecture
 
 | Layer | Description |
